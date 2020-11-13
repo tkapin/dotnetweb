@@ -7,5 +7,4 @@ Simple ASP.NET Core website using Razorpages.
  - [CI YAML File](.github/workflows/ci.yml)
  - [Production](https://dotnetmona.azurewebsites.net/)
 
-  
  Any questions? [@martinwoodward](https://twitter.com/martinwoodward)
